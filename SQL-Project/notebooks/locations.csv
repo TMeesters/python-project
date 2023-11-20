@@ -1,0 +1,196 @@
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,id,description,country.id,country.name,country.abbrev,city.id,city.name,city.keyword,state.id,state.name,state.abbrev,state.keyword,school,school_id
+0,0,0,0,0,0,0,15901,"Berlin, Germany",57.0,Germany,DE,31156.0,Berlin,berlin,,,,,ironhack,10828
+1,1,1,1,1,1,1,16022,"Mexico City, Mexico",29.0,Mexico,MX,31175.0,Mexico City,mexico-city,,,,,ironhack,10828
+2,2,2,2,2,2,2,16086,"Amsterdam, Netherlands",59.0,Netherlands,NL,31168.0,Amsterdam,amsterdam,,,,,ironhack,10828
+3,3,3,3,3,3,3,16088,"Sao Paulo, Brazil",42.0,Brazil,BR,31121.0,Sao Paulo,sao-paulo,,,,,ironhack,10828
+4,4,4,4,4,4,4,16109,"Paris, France",38.0,France,FR,31136.0,Paris,paris,,,,,ironhack,10828
+5,5,5,5,5,5,5,16375,"Miami, FL, United States",1.0,United States,US,31.0,Miami,miami,11.0,Florida,FL,florida,ironhack,10828
+6,6,6,6,6,6,6,16376,"Madrid, Spain",12.0,Spain,ES,31052.0,Madrid,madrid,,,,,ironhack,10828
+7,7,7,7,7,7,7,16377,"Barcelona, Spain",12.0,Spain,ES,31170.0,Barcelona,barcelona,,,,,ironhack,10828
+8,8,8,8,8,8,8,16709,"Lisbon, Portugal",28.0,Portugal,PT,31075.0,Lisbon,lisbon,,,,,ironhack,10828
+9,9,9,9,9,9,9,17233,Online,,,,,,,1.0,Online,Online,online,ironhack,10828
+10,10,10,10,10,10,0,15704,"San Francisco, CA, United States",1.0,United States,US,13.0,San Francisco,san-francisco,6.0,California,CA,california,app-academy,10525
+11,11,11,11,11,11,1,15705,"New York City, NY, United States",1.0,United States,US,1507.0,NYC,new-york-city,34.0,New York,NY,new-york,app-academy,10525
+12,12,12,12,12,12,2,15862,Online,,,,,,,1.0,Online,Online,online,app-academy,10525
+13,13,13,13,13,13,0,16013,Online,,,,,,,1.0,Online,Online,online,springboard,11035
+14,14,14,14,14,14,0,15703,"Chicago, IL, United States",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,actualize,10505
+15,15,15,15,15,15,1,16019,Online,,,,,,,1.0,Online,Online,online,actualize,10505
+16,16,16,16,16,16,0,16712,"Irvine, CA, United States",1.0,United States,US,24.0,Irvine,irvine,6.0,California,CA,california,learningfuze,10862
+17,17,17,17,17,17,1,16806,"San Diego, CA, United States",1.0,United States,US,11.0,San Diego,san-diego,6.0,California,CA,california,learningfuze,10862
+18,18,18,18,18,18,2,16970,Online,,,,,,,1.0,Online,Online,online,learningfuze,10862
+19,19,19,19,19,19,0,17789,Online,,,,,,,1.0,Online,Online,online,clarusway,11539
+20,20,20,20,20,20,0,16002,"Los Angeles, CA, United States",1.0,United States,US,10.0,Los Angeles,los-angeles,6.0,California,CA,california,codesmith,10643
+21,21,21,21,21,21,1,16328,"New York City, NY, United States",1.0,United States,US,1507.0,NYC,new-york-city,34.0,New York,NY,new-york,codesmith,10643
+22,22,22,22,22,22,2,16595,Online,,,,,,,1.0,Online,Online,online,codesmith,10643
+23,23,23,23,23,23,3,17438,Temporarily Online,1.0,United States,US,31234.0,Temporarily Online,temp-online,,,,,codesmith,10643
+24,24,24,24,24,24,0,15909,"Chicago, IL, United States",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,code-platoon,10627
+25,25,25,25,25,25,1,16764,Online,,,,,,,1.0,Online,Online,online,code-platoon,10627
+26,26,26,26,26,26,0,15775,Online,,,,,,,1.0,Online,Online,online,knowledgehut,10846
+27,27,27,27,27,27,0,15807,Online,,,,,,,1.0,Online,Online,online,udacity,11118
+28,28,28,28,28,28,0,16297,Online,,,,,,,1.0,Online,Online,online,altcademy,10517
+29,29,29,29,29,29,0,16035,"Cleveland, OH, United States",1.0,United States,US,71.0,Cleveland,cleveland,37.0,Ohio,OH,ohio,tech-elevator,11056
+30,30,30,30,30,30,1,16127,"Columbus, OH, United States",1.0,United States,US,70.0,Columbus,columbus,37.0,Ohio,OH,ohio,tech-elevator,11056
+31,31,31,31,31,31,2,16143,"Cincinnati, OH, United States",1.0,United States,US,72.0,Cincinnati,cincinnati,37.0,Ohio,OH,ohio,tech-elevator,11056
+32,32,32,32,32,32,3,16477,"Pittsburgh, PA, United States",1.0,United States,US,78.0,Pittsburgh,pittsburgh,40.0,Pennsylvania,PA,pennsylvania,tech-elevator,11056
+33,33,33,33,33,33,4,17272,Online,,,,,,,1.0,Online,Online,online,tech-elevator,11056
+34,34,34,34,34,34,5,17722,"Dallas, TX, United States",1.0,United States,US,83.0,Dallas,dallas,45.0,Texas,TX,texas,tech-elevator,11056
+35,35,35,35,35,35,0,16122,"Barcelona, Spain",12.0,Spain,ES,31170.0,Barcelona,barcelona,,,,,codeworks,10650
+36,36,36,36,36,36,1,17049,Online,,,,,,,1.0,Online,Online,online,codeworks,10650
+37,37,37,37,37,37,2,17122,"Berlin, Germany",57.0,Germany,DE,31156.0,Berlin,berlin,,,,,codeworks,10650
+38,38,38,38,38,38,3,17126,"London, England",61.0,England,GB,31176.0,London,london,,,,,codeworks,10650
+39,39,39,39,39,39,0,16054,"Miami, FL, United States",1.0,United States,US,31.0,Miami,miami,11.0,Florida,FL,florida,4geeks-academy,10492
+40,40,40,40,40,40,1,16758,"Caracas, Venezuela",58.0,Venezuela,VE,31159.0,Caracas,caracas,,,,,4geeks-academy,10492
+41,41,41,41,41,41,2,17370,"Madrid, Spain",12.0,Spain,ES,31052.0,Madrid,madrid,,,,,4geeks-academy,10492
+42,42,42,42,42,42,3,17805,"Orlando, FL, United States",1.0,United States,US,33.0,Orlando,orlando,11.0,Florida,FL,florida,4geeks-academy,10492
+43,43,43,43,43,43,4,17806,"San Jose, Costa Rica",18.0,Costa Rica,CR,31236.0,San Jose,san-jose,,,,,4geeks-academy,10492
+44,44,44,44,44,44,5,17811,"Montevideo, Uruguay",33.0,Uruguay,UY,31089.0,Montevideo,montevideo,,,,,4geeks-academy,10492
+45,45,45,45,45,45,6,18220,"Barcelona, Spain",12.0,Spain,ES,31170.0,Barcelona,barcelona,,,,,4geeks-academy,10492
+46,46,46,46,46,46,7,18223,"Milan, Italy",39.0,Italy,IT,31107.0,Milan,milan,,,,,4geeks-academy,10492
+47,47,47,47,47,47,8,18224,"Rome, Italy",39.0,Italy,IT,31180.0,Rome,rome,,,,,4geeks-academy,10492
+48,48,48,48,48,48,9,18225,"Hamburg, Germany",57.0,Germany,DE,31222.0,Hamburg,hamburg,,,,,4geeks-academy,10492
+49,49,49,49,49,49,10,18226,"Berlin, Germany",57.0,Germany,DE,31156.0,Berlin,berlin,,,,,4geeks-academy,10492
+50,50,50,50,50,50,11,18227,"Dublin, Ireland",25.0,Ireland,IE,31099.0,Dublin,dublin,,,,,4geeks-academy,10492
+51,51,51,51,51,51,12,18228,"Lisbon, Portugal",28.0,Portugal,PT,31075.0,Lisbon,lisbon,,,,,4geeks-academy,10492
+52,52,52,52,52,52,13,18229,"Munich, Germany",57.0,Germany,DE,31158.0,Munich,munich,,,,,4geeks-academy,10492
+53,53,53,53,53,53,14,18231,"Santiago, Chile",22.0,Chile,CL,31067.0,Santiago,santiago,,,,,4geeks-academy,10492
+54,54,54,54,54,54,15,18232,"Bogota, Columbia",30.0,Colombia,CO,31078.0,Bogota,bogota,,,,,4geeks-academy,10492
+55,55,55,55,55,55,16,18233,"Mexico City, Mexico",29.0,Mexico,MX,31175.0,Mexico City,mexico-city,,,,,4geeks-academy,10492
+56,56,56,56,56,56,17,18234,"Buenos Aires, Argentina",60.0,Argentina,AR,31171.0,Buenos Aires,buenos-aires,,,,,4geeks-academy,10492
+57,57,57,57,57,57,18,18236,"Panama City, Panama",1.0,United States,US,806.0,Panama City,panama-city,,,,,4geeks-academy,10492
+58,58,58,58,58,58,19,18237,"Lima, Peru",196.0,Peru,PE,31256.0,Lima,lima,,,,,4geeks-academy,10492
+59,59,59,59,59,59,20,18238,"Quito, Ecuador",113.0,Ecuador,EC,31235.0,Quito,quito,,,,,4geeks-academy,10492
+60,60,60,60,60,60,21,18239,"La Paz, Bolivia",83.0,Bolivia,BO,31300.0,La Paz,la-paz,,,,,4geeks-academy,10492
+61,61,61,61,61,61,22,18241,"Toronto, Canada",2.0,Canada,CA,31152.0,Toronto,toronto,,,,,4geeks-academy,10492
+62,62,62,62,62,62,23,18242,"Malaga, Spain",12.0,Spain,ES,31298.0,Malaga,malaga-spain,,,,,4geeks-academy,10492
+63,63,63,63,63,63,24,18370,Online,,,,,,,1.0,Online,Online,online,4geeks-academy,10492
+64,64,64,64,64,64,25,18371,"Atlanta, GA",1.0,United States,US,36.0,Atlanta,atlanta,12.0,Georgia,GA,georgia,4geeks-academy,10492
+65,65,65,65,65,65,26,18372,"Houston, TX",1.0,United States,US,81.0,Houston,houston,45.0,Texas,TX,texas,4geeks-academy,10492
+66,66,66,66,66,66,27,18373,"Chicago, IL",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,4geeks-academy,10492
+67,67,67,67,67,67,28,18374,"Los Angeles, CA",1.0,United States,US,10.0,Los Angeles,los-angeles,6.0,California,CA,california,4geeks-academy,10492
+68,68,68,68,68,68,29,18375,"New York, NY",1.0,United States,US,3619.0,New  York,new-york,34.0,New York,NY,new-york,4geeks-academy,10492
+69,69,69,69,69,69,0,15875,"Austin, TX, United States",1.0,United States,US,84.0,Austin,austin,45.0,Texas,TX,texas,coding-temple,10664
+70,70,70,70,70,70,1,15876,"Dallas, TX, United States",1.0,United States,US,83.0,Dallas,dallas,45.0,Texas,TX,texas,coding-temple,10664
+71,71,71,71,71,71,2,16003,"Chicago, IL, United States",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,coding-temple,10664
+72,72,72,72,72,72,3,16140,"Boston, MA, United States",1.0,United States,US,47.0,Boston,boston,23.0,Massachusetts,MA,massachusetts,coding-temple,10664
+73,73,73,73,73,73,4,16436,"Washington, DC, United States",1.0,United States,US,775.0,Washington D.C.,washington-dc,10.0,District of Columbia,DC,district-of-columbia,coding-temple,10664
+74,74,74,74,74,74,5,16799,Online,,,,,,,1.0,Online,Online,online,coding-temple,10664
+75,75,75,75,75,75,0,16089,"Milwaukee, WI, United States",1.0,United States,US,98.0,Milwaukee,milwaukee,51.0,Wisconsin,WI,wisconsin,devcodecamp,10703
+76,76,76,76,76,76,1,17420,Online,,,,,,,1.0,Online,Online,online,devcodecamp,10703
+77,77,77,77,77,77,0,15709,Online,,,,,,,1.0,Online,Online,online,nucamp,10923
+78,78,78,78,78,78,1,16463,"Seattle, WA, United States",1.0,United States,US,97.0,Seattle,seattle,49.0,Washington,WA,washington,nucamp,10923
+79,79,79,79,79,79,2,16730,"Tacoma, WA, United States",1.0,United States,US,1196.0,Tacoma,tacoma,49.0,Washington,WA,washington,nucamp,10923
+80,80,80,80,80,80,3,16731,"Marysville, WA, United States",1.0,United States,US,30455.0,Marysville,marysville,49.0,Washington,WA,washington,nucamp,10923
+81,81,81,81,81,81,4,16732,"Spokane, WA, United States",1.0,United States,US,1195.0,Spokane,spokane,49.0,Washington,WA,washington,nucamp,10923
+82,82,82,82,82,82,5,16733,"Bellingham, WA, United States",1.0,United States,US,1183.0,Bellingham,bellingham,49.0,Washington,WA,washington,nucamp,10923
+83,83,83,83,83,83,6,16821,"Albuquerque, NM, United States",1.0,United States,US,63.0,Albuquerque,albuquerque,33.0,New Mexico,NM,new-mexico,nucamp,10923
+84,84,84,84,84,84,7,16822,"Athens, GA, United States",1.0,United States,US,822.0,Athens,athens,12.0,Georgia,GA,georgia,nucamp,10923
+85,85,85,85,85,85,8,16823,"Atlanta, GA, United States",1.0,United States,US,36.0,Atlanta,atlanta,12.0,Georgia,GA,georgia,nucamp,10923
+86,86,86,86,86,86,9,16824,"Aurora, IL, United States",1.0,United States,US,1600.0,Aurora,aurora,15.0,Illinois,IL,illinois,nucamp,10923
+87,87,87,87,87,87,10,16825,"Austin, TX, United States",1.0,United States,US,84.0,Austin,austin,45.0,Texas,TX,texas,nucamp,10923
+88,88,88,88,88,88,11,16826,"Baltimore, MD, United States",1.0,United States,US,48.0,Baltimore,baltimore,22.0,Maryland,MD,maryland,nucamp,10923
+89,89,89,89,89,89,12,16827,"Baton Rouge, LA, United States",1.0,United States,US,46.0,Baton Rouge,baton-rouge,20.0,Louisiana,LA,louisiana,nucamp,10923
+90,90,90,90,90,90,13,16828,"Bellevue, WA, United States",1.0,United States,US,1193.0,Bellevue,bellevue,49.0,Washington,WA,washington,nucamp,10923
+91,91,91,91,91,91,14,16829,"Berkeley, CA, United States",1.0,United States,US,1834.0,Berkeley,berkeley,6.0,California,CA,california,nucamp,10923
+92,92,92,92,92,92,15,16830,"Billings, MT, United States",1.0,United States,US,992.0,Billings,billings,28.0,Montana,MT,montana,nucamp,10923
+93,93,93,93,93,93,16,16831,"Boulder, CO, United States",1.0,United States,US,755.0,Boulder,boulder,7.0,Colorado,CO,colorado,nucamp,10923
+94,94,94,94,94,94,17,16832,"Buffalo, NY, United States",1.0,United States,US,69.0,Buffalo,buffalo,34.0,New York,NY,new-york,nucamp,10923
+95,95,95,95,95,95,18,16833,"Cambridge, MA, United States",1.0,United States,US,922.0,Cambridge,cambridge,23.0,Massachusetts,MA,massachusetts,nucamp,10923
+96,96,96,96,96,96,19,16834,"Charleston, SC, United States",1.0,United States,US,1106.0,Charleston,charleston,42.0,South Carolina,SC,south-carolina,nucamp,10923
+97,97,97,97,97,97,20,16835,"Charlotte, NC, United States",1.0,United States,US,56.0,Charlotte,charlotte,35.0,North Carolina,NC,north-carolina,nucamp,10923
+98,98,98,98,98,98,21,16836,"Chattanooga, TN, United States",1.0,United States,US,1121.0,Chattanooga,chattanooga,44.0,Tennessee,TN,tennessee,nucamp,10923
+99,99,99,99,99,99,22,16837,"Chicago, IL, United States",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,nucamp,10923
+100,100,100,100,100,100,23,16838,"Cincinnati, OH, United States",1.0,United States,US,72.0,Cincinnati,cincinnati,37.0,Ohio,OH,ohio,nucamp,10923
+101,101,101,101,101,101,24,16839,"Cleveland, OH, United States",1.0,United States,US,71.0,Cleveland,cleveland,37.0,Ohio,OH,ohio,nucamp,10923
+102,102,102,102,102,102,25,16840,"Colorado Springs, CO, United States",1.0,United States,US,28.0,Colorado Springs,colorado-springs,7.0,Colorado,CO,colorado,nucamp,10923
+103,103,103,103,103,103,26,16841,"Columbia, SC, United States",1.0,United States,US,1109.0,Columbia,columbia,42.0,South Carolina,SC,south-carolina,nucamp,10923
+104,104,104,104,104,104,27,16842,"Columbus, OH, United States",1.0,United States,US,70.0,Columbus,columbus,37.0,Ohio,OH,ohio,nucamp,10923
+105,105,105,105,105,105,28,16843,"Dallas, TX, United States",1.0,United States,US,83.0,Dallas,dallas,45.0,Texas,TX,texas,nucamp,10923
+106,106,106,106,106,106,29,16844,"Denver, CO, United States",1.0,United States,US,27.0,Denver,denver,7.0,Colorado,CO,colorado,nucamp,10923
+107,107,107,107,107,107,30,16845,"Detroit, MI, United States",1.0,United States,US,49.0,Detroit,detroit,24.0,Michigan,MI,michigan,nucamp,10923
+108,108,108,108,108,108,31,16846,"Fairfield, CT, United States",1.0,United States,US,1575.0,Fairfield,fairfield,8.0,Connecticut,CT,connecticut,nucamp,10923
+109,109,109,109,109,109,32,16847,"Fargo, ND, United States",1.0,United States,US,1058.0,Fargo,fargo,36.0,North Dakota,ND,north-dakota,nucamp,10923
+110,110,110,110,110,110,33,16848,"Fayetteville, AR, United States",1.0,United States,US,705.0,Fayetteville,fayetteville,5.0,Arkansas,AR,arkansas,nucamp,10923
+111,111,111,111,111,111,34,16849,"Fort Collins, CO, United States",1.0,United States,US,757.0,Fort Collins,fort-collins,7.0,Colorado,CO,colorado,nucamp,10923
+112,112,112,112,112,112,35,16850,"Fort Lauderdale, FL, United States",1.0,United States,US,786.0,Fort Lauderdale,fort-lauderdale,11.0,Florida,FL,florida,nucamp,10923
+113,113,113,113,113,113,36,16851,"Fresno, CA, United States",1.0,United States,US,14.0,Fresno,fresno,6.0,California,CA,california,nucamp,10923
+114,114,114,114,114,114,37,16852,"Gainesville, FL, United States",1.0,United States,US,789.0,Gainesville,gainesville,11.0,Florida,FL,florida,nucamp,10923
+115,115,115,115,115,115,38,16853,"Greensboro, NC, United States",1.0,United States,US,58.0,Greensboro,greensboro,35.0,North Carolina,NC,north-carolina,nucamp,10923
+116,116,116,116,116,116,39,16854,"Greenville, SC, United States",1.0,United States,US,1111.0,Greenville,greenville,42.0,South Carolina,SC,south-carolina,nucamp,10923
+117,117,117,117,117,117,40,16855,"Honolulu, HI, United States",1.0,United States,US,37.0,Honolulu,honolulu,13.0,Hawaii,HI,hawaii,nucamp,10923
+118,118,118,118,118,118,41,16856,"Houston, TX, United States",1.0,United States,US,81.0,Houston,houston,45.0,Texas,TX,texas,nucamp,10923
+119,119,119,119,119,119,42,16857,"Indianapolis, IN, United States",1.0,United States,US,40.0,Indianapolis,indianapolis,16.0,Indiana,IN,indiana,nucamp,10923
+120,120,120,120,120,120,43,16858,"Irvine, CA, United States",1.0,United States,US,24.0,Irvine,irvine,6.0,California,CA,california,nucamp,10923
+121,121,121,121,121,121,44,16859,"Jersey City, NJ, United States",1.0,United States,US,62.0,Jersey City,jersey-city,32.0,New Jersey,NJ,new-jersey,nucamp,10923
+122,122,122,122,122,122,45,16860,"Kansas City, MO, United States",1.0,United States,US,52.0,Kansas City,kansas-city,27.0,Missouri,MO,missouri,nucamp,10923
+123,123,123,123,123,123,46,16861,"Knoxville, TN, United States",1.0,United States,US,1128.0,Knoxville,knoxville,44.0,Tennessee,TN,tennessee,nucamp,10923
+124,124,124,124,124,124,47,16862,"Las Cruces, NM, United States",1.0,United States,US,1017.0,Las Cruces,las-cruces,33.0,New Mexico,NM,new-mexico,nucamp,10923
+125,125,125,125,125,125,48,16863,"Las Vegas, NV, United States",1.0,United States,US,64.0,Las Vegas,las-vegas,30.0,Nevada,NV,nevada,nucamp,10923
+126,126,126,126,126,126,49,16864,"Lawrence, KS, United States",1.0,United States,US,888.0,Lawrence,lawrence,18.0,Kansas,KS,kansas,nucamp,10923
+127,127,127,127,127,127,50,16865,"Lexington, KY, United States",1.0,United States,US,44.0,Lexington,lexington,19.0,Kentucky,KY,kentucky,nucamp,10923
+128,128,128,128,128,128,51,16866,"Little Rock, AR, United States",1.0,United States,US,711.0,Little Rock,little-rock,5.0,Arkansas,AR,arkansas,nucamp,10923
+129,129,129,129,129,129,52,16867,"Los Angeles, CA, United States",1.0,United States,US,10.0,Los Angeles,los-angeles,6.0,California,CA,california,nucamp,10923
+130,130,130,130,130,130,53,16868,"Louisville, KY, United States",1.0,United States,US,43.0,Louisville,louisville,19.0,Kentucky,KY,kentucky,nucamp,10923
+131,131,131,131,131,131,54,16869,"Macon, GA, United States",1.0,United States,US,834.0,Macon,macon,12.0,Georgia,GA,georgia,nucamp,10923
+132,132,132,132,132,132,55,16870,"Madison, SD, United States",1.0,United States,US,4046.0,Madison,madison,43.0,South Dakota,SD,south-dakota,nucamp,10923
+133,133,133,133,133,133,56,16871,"Memphis, TN, United States",1.0,United States,US,79.0,Memphis,memphis,44.0,Tennessee,TN,tennessee,nucamp,10923
+134,134,134,134,134,134,57,16872,"Miami, FL, United States",1.0,United States,US,31.0,Miami,miami,11.0,Florida,FL,florida,nucamp,10923
+135,135,135,135,135,135,58,16873,"Milwaukee, WI, United States",1.0,United States,US,98.0,Milwaukee,milwaukee,51.0,Wisconsin,WI,wisconsin,nucamp,10923
+136,136,136,136,136,136,59,16874,"Minneapolis, MN, United States",1.0,United States,US,50.0,Minneapolis,minneapolis,25.0,Minnesota,MN,minnesota,nucamp,10923
+137,137,137,137,137,137,60,16875,"Murfreesboro, TN, United States",1.0,United States,US,1131.0,Murfreesboro,murfreesboro,44.0,Tennessee,TN,tennessee,nucamp,10923
+138,138,138,138,138,138,61,16876,"Nashville, TN, United States",1.0,United States,US,80.0,Nashville,nashville,44.0,Tennessee,TN,tennessee,nucamp,10923
+139,139,139,139,139,139,62,16877,"New Orleans, LA, United States",1.0,United States,US,45.0,New Orleans,new-orleans,20.0,Louisiana,LA,louisiana,nucamp,10923
+140,140,140,140,140,140,63,16878,"New York City, NY, United States",1.0,United States,US,1507.0,NYC,new-york-city,34.0,New York,NY,new-york,nucamp,10923
+141,141,141,141,141,141,64,16879,"Newark, NJ, United States",1.0,United States,US,61.0,Newark,newark,32.0,New Jersey,NJ,new-jersey,nucamp,10923
+142,142,142,142,142,142,65,16880,"Omaha, NE, United States",1.0,United States,US,54.0,Omaha,omaha,29.0,Nebraska,NE,nebraska,nucamp,10923
+143,143,143,143,143,143,66,16881,"Orlando, FL, United States",1.0,United States,US,33.0,Orlando,orlando,11.0,Florida,FL,florida,nucamp,10923
+144,144,144,144,144,144,67,16882,"Palm Beach, FL, United States",1.0,United States,US,1358.0,Palm Beach,palm-beach,11.0,Florida,FL,florida,nucamp,10923
+145,145,145,145,145,145,68,16883,"Philadelphia, PA, United States",1.0,United States,US,77.0,Philadelphia,philadelphia,40.0,Pennsylvania,PA,pennsylvania,nucamp,10923
+146,146,146,146,146,146,69,16884,"Phoenix, AZ, United States",1.0,United States,US,3.0,Phoenix,phoenix,4.0,Arizona,AZ,arizona,nucamp,10923
+147,147,147,147,147,147,70,16885,"Pittsburgh, PA, United States",1.0,United States,US,78.0,Pittsburgh,pittsburgh,40.0,Pennsylvania,PA,pennsylvania,nucamp,10923
+148,148,148,148,148,148,71,16886,"Portland, OR, United States",1.0,United States,US,76.0,Portland,portland,39.0,Oregon,OR,oregon,nucamp,10923
+149,149,149,149,149,149,72,16887,"Providence, RI, United States",1.0,United States,US,1102.0,Providence,providence,41.0,Rhode Island,RI,rhode-island,nucamp,10923
+150,150,150,150,150,150,73,16888,"Raleigh-Durham, NC, United States",1.0,United States,US,31041.0,Raleigh-Durham,raleigh-durham,35.0,North Carolina,NC,north-carolina,nucamp,10923
+151,151,151,151,151,151,74,16889,"Richmond, VA, United States",1.0,United States,US,1179.0,Richmond,richmond,48.0,Virginia,VA,virginia,nucamp,10923
+152,152,152,152,152,152,75,16890,"Riverside, CA, United States",1.0,United States,US,21.0,Riverside,riverside,6.0,California,CA,california,nucamp,10923
+153,153,153,153,153,153,76,16891,"Rochester, NY, United States",1.0,United States,US,1035.0,Rochester,rochester,34.0,New York,NY,new-york,nucamp,10923
+154,154,154,154,154,154,77,16892,"Sacramento, CA, United States",1.0,United States,US,15.0,Sacramento,sacramento,6.0,California,CA,california,nucamp,10923
+155,155,155,155,155,155,78,16893,"Salt Lake City, UT, United States",1.0,United States,US,1168.0,Salt Lake City,salt-lake-city,46.0,Utah,UT,utah,nucamp,10923
+156,156,156,156,156,156,79,16894,"San Antonio, TX, United States",1.0,United States,US,82.0,San Antonio,san-antonio,45.0,Texas,TX,texas,nucamp,10923
+157,157,157,157,157,157,80,16895,"San Diego, CA, United States",1.0,United States,US,11.0,San Diego,san-diego,6.0,California,CA,california,nucamp,10923
+158,158,158,158,158,158,81,16896,"San Francisco, CA, United States",1.0,United States,US,13.0,San Francisco,san-francisco,6.0,California,CA,california,nucamp,10923
+159,159,159,159,159,159,82,16897,"San Jose, CA, United States",1.0,United States,US,12.0,San Jose,san-jose,6.0,California,CA,california,nucamp,10923
+160,160,160,160,160,160,83,16898,"St. Louis, MO, United States",1.0,United States,US,53.0,St. Louis,st-louis,27.0,Missouri,MO,missouri,nucamp,10923
+161,161,161,161,161,161,84,16899,"St. Petersburg, FL, United States",1.0,United States,US,34.0,St. Petersburg,st-petersburg,11.0,Florida,FL,florida,nucamp,10923
+162,162,162,162,162,162,85,16900,"Stockholm, Sweden",37.0,Sweden,SE,31109.0,Stockholm,stockholm,,,,,nucamp,10923
+163,163,163,163,163,163,86,16901,"Tampa, FL, United States",1.0,United States,US,32.0,Tampa,tampa,11.0,Florida,FL,florida,nucamp,10923
+164,164,164,164,164,164,87,16902,"Toledo, OH, United States",1.0,United States,US,73.0,Toledo,toledo,37.0,Ohio,OH,ohio,nucamp,10923
+165,165,165,165,165,165,88,16903,"Tulsa, OK, United States",1.0,United States,US,75.0,Tulsa,tulsa,38.0,Oklahoma,OK,oklahoma,nucamp,10923
+166,166,166,166,166,166,89,16904,"Tuscaloosa, AL, United States",1.0,United States,US,697.0,Tuscaloosa,tuscaloosa,2.0,Alabama,AL,alabama,nucamp,10923
+167,167,167,167,167,167,90,16905,"Washington, DC, United States",1.0,United States,US,775.0,Washington D.C.,washington-dc,10.0,District of Columbia,DC,district-of-columbia,nucamp,10923
+168,168,168,168,168,168,91,16906,"Wilmington, DE, United States",1.0,United States,US,774.0,Wilmington,wilmington,9.0,Delaware,DE,delaware,nucamp,10923
+169,169,169,169,169,169,92,16907,"Wales, United Kingdom",11.0,United Kingdom,GB,31092.0,Wales,wales,,,,,nucamp,10923
+170,170,170,170,170,170,0,17154,Online,,,,,,,1.0,Online,Online,online,tripleten,11225
+171,171,171,171,171,171,0,15796,Online,,,,,,,1.0,Online,Online,online,skillcrush,11020
+172,172,172,172,172,172,0,15729,"Portland, OR, United States",1.0,United States,US,76.0,Portland,portland,39.0,Oregon,OR,oregon,the-tech-academy,11091
+173,173,173,173,173,173,1,16404,Online,,,,,,,1.0,Online,Online,online,the-tech-academy,11091
+174,174,174,174,174,174,0,15707,"San Francisco, CA, United States",1.0,United States,US,13.0,San Francisco,san-francisco,6.0,California,CA,california,hack-reactor,10788
+175,175,175,175,175,175,1,15888,"Boulder, CO, United States",1.0,United States,US,755.0,Boulder,boulder,7.0,Colorado,CO,colorado,hack-reactor,10788
+176,176,176,176,176,176,2,15890,"Phoenix, AZ, United States",1.0,United States,US,3.0,Phoenix,phoenix,4.0,Arizona,AZ,arizona,hack-reactor,10788
+177,177,177,177,177,177,3,16382,Online,,,,,,,1.0,Online,Online,online,hack-reactor,10788
+178,178,178,178,178,178,0,17375,Online,,,,,,,1.0,Online,Online,online,tech-i-s,11283
+179,179,179,179,179,179,0,15935,"New York City, NY",1.0,United States,US,1507.0,NYC,new-york-city,34.0,New York,NY,new-york,brainstation,10571
+180,180,180,180,180,180,1,15985,"Toronto, Canada",2.0,Canada,CA,31152.0,Toronto,toronto,66.0,Ontario,ON,,brainstation,10571
+181,181,181,181,181,181,2,16010,"Vancouver, Canada",2.0,Canada,CA,31138.0,Vancouver,vancouver,71.0,British Columbia,BC,,brainstation,10571
+182,182,182,182,182,182,3,16909,"Boston, MA",1.0,United States,US,47.0,Boston,boston,23.0,Massachusetts,MA,massachusetts,brainstation,10571
+183,183,183,183,183,183,4,16910,"Chicago, IL",1.0,United States,US,39.0,Chicago,chicago,15.0,Illinois,IL,illinois,brainstation,10571
+184,184,184,184,184,184,5,16940,Online,,,,,,,1.0,Online,Online,online,brainstation,10571
+185,185,185,185,185,185,6,17706,"Miami, FL",1.0,United States,US,31.0,Miami,miami,11.0,Florida,FL,florida,brainstation,10571
+186,186,186,186,186,186,7,17731,"London, UK",11.0,United Kingdom,GB,31176.0,London,london,,,,,brainstation,10571
+187,187,187,187,187,187,0,15712,"Seattle, WA",1.0,United States,US,1193.0,Bellevue,bellevue,49.0,Washington,WA,washington,coding-dojo,10659
+188,188,188,188,188,188,1,15812,"Los Angeles, CA",1.0,United States,US,10.0,Los Angeles,los-angeles,6.0,California,CA,california,coding-dojo,10659
+189,189,189,189,189,189,2,15813,"San Jose, CA",1.0,United States,US,12.0,San Jose,san-jose,6.0,California,CA,california,coding-dojo,10659
+190,190,190,190,190,190,3,16385,"Berkeley, CA",1.0,United States,US,17.0,Oakland,oakland,6.0,California,CA,california,coding-dojo,10659
+191,191,191,191,191,191,4,16464,"Tulsa, OK",1.0,United States,US,75.0,Tulsa,tulsa,38.0,Oklahoma,OK,oklahoma,coding-dojo,10659
+192,192,192,192,192,192,5,16594,Online,,,,,,,1.0,Online,Online,online,coding-dojo,10659
+193,193,193,193,193,193,6,16919,"Orange County, CA",1.0,United States,US,4093.0,Orange County,orange-county,6.0,California,CA,california,coding-dojo,10659
+194,194,194,194,194,194,7,16955,"Arlington, VA",1.0,United States,US,1326.0,Arlington,arlington,48.0,Virginia,VA,virginia,coding-dojo,10659

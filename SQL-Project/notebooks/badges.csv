@@ -1,0 +1,69 @@
+,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,name,keyword,description,school,school_id
+0,0,0,0,0,0,0,Available Online,available_online,School offers fully online courses,ironhack,10828
+1,1,1,1,1,1,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,ironhack,10828
+2,2,2,2,2,2,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,ironhack,10828
+3,3,3,3,3,3,0,Available Online,available_online,School offers fully online courses,app-academy,10525
+4,4,4,4,4,4,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,app-academy,10525
+5,5,5,5,5,5,2,Job Guarantee,job_guarantee,School guarantees job placement,app-academy,10525
+6,6,6,6,6,6,0,Available Online,available_online,School offers fully online courses,springboard,11035
+7,7,7,7,7,7,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,springboard,11035
+8,8,8,8,8,8,2,Job Guarantee,job_guarantee,School guarantees job placement,springboard,11035
+9,9,9,9,9,9,0,Available Online,available_online,School offers fully online courses,actualize,10505
+10,10,10,10,10,10,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,actualize,10505
+11,11,11,11,11,11,0,Available Online,available_online,School offers fully online courses,learningfuze,10862
+12,12,12,12,12,12,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,learningfuze,10862
+13,13,13,13,13,13,0,Available Online,available_online,School offers fully online courses,clarusway,11539
+14,14,14,14,14,14,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,clarusway,11539
+15,15,15,15,15,15,0,Available Online,available_online,School offers fully online courses,codesmith,10643
+16,16,16,16,16,16,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,codesmith,10643
+17,17,17,17,17,17,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,codesmith,10643
+18,18,18,18,18,18,0,Available Online,available_online,School offers fully online courses,code-platoon,10627
+19,19,19,19,19,19,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,code-platoon,10627
+20,20,20,20,20,20,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,code-platoon,10627
+21,21,21,21,21,21,3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,code-platoon,10627
+22,22,22,22,22,22,4,VET TEC Provider,vet_tec_provider,School is a VET TEC Provider,code-platoon,10627
+23,23,23,23,23,23,0,Available Online,available_online,School offers fully online courses,knowledgehut,10846
+24,24,24,24,24,24,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,knowledgehut,10846
+25,25,25,25,25,25,0,Available Online,available_online,School offers fully online courses,udacity,11118
+26,26,26,26,26,26,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,udacity,11118
+27,27,27,27,27,27,0,Available Online,available_online,School offers fully online courses,altcademy,10517
+28,28,28,28,28,28,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,altcademy,10517
+29,29,29,29,29,29,0,Available Online,available_online,School offers fully online courses,tech-elevator,11056
+30,30,30,30,30,30,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,tech-elevator,11056
+31,31,31,31,31,31,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,tech-elevator,11056
+32,32,32,32,32,32,3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,tech-elevator,11056
+33,33,33,33,33,33,0,Available Online,available_online,School offers fully online courses,codeworks,10650
+34,34,34,34,34,34,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,codeworks,10650
+35,35,35,35,35,35,0,Available Online,available_online,School offers fully online courses,4geeks-academy,10492
+36,36,36,36,36,36,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,4geeks-academy,10492
+37,37,37,37,37,37,0,Available Online,available_online,School offers fully online courses,coding-temple,10664
+38,38,38,38,38,38,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,coding-temple,10664
+39,39,39,39,39,39,2,Job Guarantee,job_guarantee,School guarantees job placement,coding-temple,10664
+40,40,40,40,40,40,3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,coding-temple,10664
+41,41,41,41,41,41,0,Available Online,available_online,School offers fully online courses,devcodecamp,10703
+42,42,42,42,42,42,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,devcodecamp,10703
+43,43,43,43,43,43,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,devcodecamp,10703
+44,44,44,44,44,44,0,Available Online,available_online,School offers fully online courses,nucamp,10923
+45,45,45,45,45,45,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,nucamp,10923
+46,46,46,46,46,46,0,Available Online,available_online,School offers fully online courses,tripleten,11225
+47,47,47,47,47,47,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,tripleten,11225
+48,48,48,48,48,48,2,Job Guarantee,job_guarantee,School guarantees job placement,tripleten,11225
+49,49,49,49,49,49,0,Available Online,available_online,School offers fully online courses,skillcrush,11020
+50,50,50,50,50,50,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,skillcrush,11020
+51,51,51,51,51,51,2,Job Guarantee,job_guarantee,School guarantees job placement,skillcrush,11020
+52,52,52,52,52,52,0,Available Online,available_online,School offers fully online courses,the-tech-academy,11091
+53,53,53,53,53,53,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,the-tech-academy,11091
+54,54,54,54,54,54,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,the-tech-academy,11091
+55,55,55,55,55,55,0,Available Online,available_online,School offers fully online courses,hack-reactor,10788
+56,56,56,56,56,56,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,hack-reactor,10788
+57,57,57,57,57,57,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,hack-reactor,10788
+58,58,58,58,58,58,3,VET TEC Provider,vet_tec_provider,School is a VET TEC Provider,hack-reactor,10788
+59,59,59,59,59,59,0,Available Online,available_online,School offers fully online courses,tech-i-s,11283
+60,60,60,60,60,60,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,tech-i-s,11283
+61,61,61,61,61,61,0,Available Online,available_online,School offers fully online courses,brainstation,10571
+62,62,62,62,62,62,1,Flexible Classes,flexible_classes,School offers part-time and evening classes,brainstation,10571
+63,63,63,63,63,63,2,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,brainstation,10571
+64,64,64,64,64,64,0,Available Online,available_online,School offers fully online courses,coding-dojo,10659
+65,65,65,65,65,65,1,Verified Outcomes,verified_outcomes,School publishes a third-party verified outcomes report,coding-dojo,10659
+66,66,66,66,66,66,2,Flexible Classes,flexible_classes,School offers part-time and evening classes,coding-dojo,10659
+67,67,67,67,67,67,3,Accepts GI Bill,accepts_gi_bill,School accepts the GI Bill,coding-dojo,10659
